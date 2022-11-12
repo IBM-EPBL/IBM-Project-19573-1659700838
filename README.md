@@ -1,4 +1,10 @@
 # IBM-Project-19573-1659700838
+# VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
+</div>
+&emsp;
+
 # <img src="https://user-images.githubusercontent.com/99788851/194714225-20b1436e-cc0e-4972-8ab1-1d6cc0abf3f3.png" alt="drawing" width="40"/> Welcome
 &emsp;
 
@@ -40,4 +46,4 @@
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332480-ae7efd7c-3e5a-4dc7-bbfc-23ca283aee8d.png" alt="drawing" width="25"/>  Solution Architecture
 
-<img src="https://user-images.githubusercontent.com/107759221/201469157-1d40529e-04d1-43a5-9429-a38160d8eccb.png" alt="drawing" width="510"/>
+<img src="https://user-images.githubusercontent.com/107759221/201469157-1d40529e-04d1-43a5-9429-a38160d8eccb.png" alt="drawing" width="710"/>
