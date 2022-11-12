@@ -40,5 +40,4 @@
 &emsp;
 ## <img src="https://user-images.githubusercontent.com/99788851/198332480-ae7efd7c-3e5a-4dc7-bbfc-23ca283aee8d.png" alt="drawing" width="25"/>  Solution Architecture
 
-<img src="![arch](https://user-images.githubusercontent.com/107759221/201469157-1d40529e-04d1-43a5-9429-a38160d8eccb.png)
-" alt="drawing" width="510"/>
+<img src="https://user-images.githubusercontent.com/107759221/201469157-1d40529e-04d1-43a5-9429-a38160d8eccb.png" alt="drawing" width="510"/>
